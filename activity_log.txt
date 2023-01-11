@@ -9,3 +9,5 @@ Activity on 2023-01-09 00:00:00 - refactor: Use dependency injection
 Activity on 2023-01-09 00:00:00 - docs: Create quick start guide
 Activity on 2023-01-10 00:00:00 - perf: Reduce network requests
 Activity on 2023-01-10 00:00:00 - perf: Reduce memory footprint of data structures
+Activity on 2023-01-11 00:00:00 - docs: Generate Sphinx documentation
+Activity on 2023-01-11 00:00:00 - build: Upgrade build tools
