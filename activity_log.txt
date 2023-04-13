@@ -1570,3 +1570,6 @@ Activity on 2023-04-11 00:00:00 - ci: Add performance benchmarks
 Activity on 2023-04-11 00:00:00 - refactor: Break down large functions
 Activity on 2023-04-12 00:00:00 - docs: Add API documentation
 Activity on 2023-04-12 00:00:00 - build: Set up pre-commit hooks
+Activity on 2023-04-13 00:00:00 - test: Add end-to-end tests
+Activity on 2023-04-13 00:00:00 - ci: Add linting to pre-commit hooks
+Activity on 2023-04-13 00:00:00 - test: Use fixtures for test data
