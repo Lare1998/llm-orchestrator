@@ -3253,3 +3253,4 @@ Commit 25 on 2023-05-03 12:37:51 - style: Format code according to PEP8 guidelin
 Commit 26 on 2023-05-03 12:37:51 - test: Mock external API calls in tests
 Commit 27 on 2023-05-03 12:37:51 - test: Test error handling paths
 Commit 28 on 2023-05-03 12:37:51 - chore: Bump version number
+Commit 29 on 2023-05-05 12:37:51 - docs: Update README with installation instructions
