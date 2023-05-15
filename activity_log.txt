@@ -157,3 +157,5 @@ Activity on 2023-05-09 00:00:00 - chore: Bump version number
 Activity on 2023-05-10 00:00:00 - feat: Add search functionality
 Activity on 2023-05-11 00:00:00 - perf: Reduce bundle size
 Activity on 2023-05-11 00:00:00 - docs: Add FAQ section
+Activity on 2023-05-15 00:00:00 - perf: Parallelize CPU-bound tasks
+Activity on 2023-05-15 00:00:00 - build: Optimize image sizes
