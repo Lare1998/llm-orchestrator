@@ -166,3 +166,4 @@ Activity on 2023-05-19 00:00:00 - docs: Create quick start guide
 Activity on 2023-05-23 00:00:00 - ci: Add end-to-end testing framework
 Activity on 2023-05-23 00:00:00 - test: Use fixtures for test data
 Activity on 2023-05-25 00:00:00 - build: Set up cross-compilation
+Activity on 2023-05-26 00:00:00 - ci: Add linting to pre-commit hooks
