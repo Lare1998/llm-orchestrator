@@ -1675,3 +1675,5 @@ Activity on 2023-07-12 00:00:00 - chore: Update dependencies in requirements.txt
 Activity on 2023-07-12 00:00:00 - test: Add end-to-end tests
 Activity on 2023-07-13 00:00:00 - docs: Improve inline comments
 Activity on 2023-07-13 00:00:00 - refactor: Improve code readability and structure
+Activity on 2023-07-17 00:00:00 - ci: Integrate with SonarQube
+Activity on 2023-07-17 00:00:00 - ci: Add security scanning
