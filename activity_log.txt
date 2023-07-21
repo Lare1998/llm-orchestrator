@@ -1681,3 +1681,5 @@ Activity on 2023-07-18 00:00:00 - docs: Update README with installation instruct
 Activity on 2023-07-19 00:00:00 - style: Standardize error messages
 Activity on 2023-07-19 00:00:00 - chore: Configure environment variables
 Activity on 2023-07-20 00:00:00 - refactor: Decouple modules for better maintainability
+Activity on 2023-07-21 00:00:00 - ci: Add end-to-end testing framework
+Activity on 2023-07-21 00:00:00 - docs: Update README with installation instructions
