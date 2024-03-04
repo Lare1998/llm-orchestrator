@@ -497,3 +497,5 @@ Activity on 2024-02-29 00:00:00 - feat: Implement user roles and permissions
 Activity on 2024-02-29 00:00:00 - chore: Update dependencies in requirements.txt
 Activity on 2024-03-01 00:00:00 - docs: Create quick start guide
 Activity on 2024-03-01 00:00:00 - style: Use type hints
+Activity on 2024-03-04 00:00:00 - style: Use f-strings for formatting
+Activity on 2024-03-04 00:00:00 - build: Optimize image sizes
