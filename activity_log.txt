@@ -894,3 +894,5 @@ Activity on 2024-12-27 00:00:00 - build: Set up cross-compilation
 Activity on 2024-12-30 00:00:00 - style: Format code according to PEP8 guidelines
 Activity on 2024-12-30 00:00:00 - style: Use type hints
 Activity on 2025-01-02 00:00:00 - style: Remove redundant comments
+Activity on 2025-01-06 00:00:00 - chore: Configure environment variables
+Activity on 2025-01-06 00:00:00 - chore: Automate release process
