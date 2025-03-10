@@ -2420,3 +2420,4 @@ Activity on 2025-03-05 00:00:00 - style: Consistent import order
 Activity on 2025-03-05 00:00:00 - docs: Update README with installation instructions
 Activity on 2025-03-06 00:00:00 - perf: Reduce bundle size
 Activity on 2025-03-06 00:00:00 - test: Parameterize test cases
+Activity on 2025-03-10 00:00:00 - docs: Create architectural overview
