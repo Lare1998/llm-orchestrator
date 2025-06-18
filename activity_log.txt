@@ -1095,3 +1095,5 @@ Activity on 2025-06-13 00:00:00 - build: Update compiler flags
 Activity on 2025-06-13 00:00:00 - ci: Add security scanning
 Activity on 2025-06-16 00:00:00 - chore: Update dependencies in requirements.txt
 Activity on 2025-06-16 00:00:00 - style: Use black for formatting
+Activity on 2025-06-18 00:00:00 - test: Use fixtures for test data
+Activity on 2025-06-18 00:00:00 - build: Fix Dockerfile issues
