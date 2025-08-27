@@ -2619,3 +2619,5 @@ Activity on 2025-08-21 00:00:00 - feat: Implement user roles and permissions
 Activity on 2025-08-22 00:00:00 - fix: Correct off-by-one errors
 Activity on 2025-08-22 00:00:00 - test: Test concurrent access
 Activity on 2025-08-25 00:00:00 - style: Adjust indentation and spacing
+Activity on 2025-08-27 00:00:00 - docs: Create architectural overview
+Activity on 2025-08-27 00:00:00 - chore: Configure environment variables
