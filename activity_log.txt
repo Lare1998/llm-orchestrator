@@ -1187,3 +1187,5 @@ Activity on 2025-08-25 00:00:00 - fix: Resolve race conditions
 Activity on 2025-08-26 00:00:00 - test: Test database transactions
 Activity on 2025-08-26 00:00:00 - style: Adjust indentation and spacing
 Activity on 2025-08-28 00:00:00 - style: Adjust indentation and spacing
+Activity on 2025-08-29 00:00:00 - test: Add unit tests for core logic
+Activity on 2025-08-29 00:00:00 - chore: Update dependencies in requirements.txt
