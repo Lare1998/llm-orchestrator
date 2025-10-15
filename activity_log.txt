@@ -2681,3 +2681,5 @@ Activity on 2025-10-10 00:00:00 - fix: Resolve race conditions
 Activity on 2025-10-14 00:00:00 - fix: Correct off-by-one errors
 Activity on 2025-10-14 00:00:00 - fix: Correct input validation logic
 Activity on 2025-10-14 00:00:00 - ci: Add code coverage reporting
+Activity on 2025-10-15 00:00:00 - style: Standardize error messages
+Activity on 2025-10-15 00:00:00 - style: Standardize error messages
