@@ -1396,3 +1396,5 @@ Activity on 2026-02-06 00:00:00 - fix: Address memory leaks
 Activity on 2026-02-06 00:00:00 - chore: Automate release process
 Activity on 2026-02-09 00:00:00 - docs: Add FAQ section
 Activity on 2026-02-09 00:00:00 - test: Add unit tests for core logic
+Activity on 2026-02-12 00:00:00 - docs: Update README with installation instructions
+Activity on 2026-02-12 00:00:00 - fix: Resolve race conditions
